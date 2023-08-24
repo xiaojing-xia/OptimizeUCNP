@@ -1,0 +1,9 @@
+host: mongodb05.nersc.gov
+port: 27017
+name: 'npmc_db'
+username: 'xxia'
+password: 'acidosis-sixty-prussia-bunk'
+logdir: null
+Istrm_lvl: DEBUG
+unser_indices: []
+wf_user_indices: []
