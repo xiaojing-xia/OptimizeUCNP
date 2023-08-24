@@ -1,9 +1,0 @@
-atomate2
-fireworks
-jobflow
-maggma
-monty
-numpy
-pymatgen
-pytest
-setuptools
