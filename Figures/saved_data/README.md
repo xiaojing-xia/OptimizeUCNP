@@ -16,7 +16,7 @@ Spectral components of each optimization iteration are saved in this folder.
 
 8. Trajectory 1 for Yb\textsuperscript{3+}/Er\textsuperscript{3+}/Tm\textsuperscript{3+} optimization:https: https://github.com/xiaojing-xia/OptimizeUCNP/blob/main/Figures/saved_data/simulation_log_YbErTm_VIStoUV_logEmission_beta%3D5_10inits_3.csv
 
-How to read?
+# How to read?
 The first 4 or 6 columns are the dopant concentration of Yb/Er or Yb/Er/Tm in the core and shell. 
 
 yb_1, er_1, and tm_1: dopant molar concentration in the core. 
