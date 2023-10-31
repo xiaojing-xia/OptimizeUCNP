@@ -1,4 +1,4 @@
-Spectral components of each optimization iteration are saved in this folder.
+# Spectral components of each optimization iteration are saved in this folder.
 
 1. Trajectory 1 for Yb\textsuperscript{3+}/Er\textsuperscript{3+} optimization: https://github.com/xiaojing-xia/OptimizeUCNP/blob/main/Figures/saved_data/simulation_log_YbEr_UV_logEmission_beta%3D5.csv
 
