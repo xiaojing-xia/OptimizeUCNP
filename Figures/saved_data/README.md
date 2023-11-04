@@ -29,14 +29,14 @@ UV: integrated emission intensity from 300 to 450 nm in counts per second.
 
 VIS: integrated emission intensity from 300 to 700 nm in counts per second.
 
-BLUE: integrated emission intensity from 450 to 500 nm in counts per second.
+BLUE: integrated emission intensity from 450 to 500 nm in counts per second. This column is not used and no assumptions should be made about these values.
 
-GREEN: integrated emission intensity from 500 to 590 nm in counts per second.
+GREEN: integrated emission intensity from 500 to 590 nm in counts per second. This column is not used and no assumptions should be made about these values.
 
-RED: integrated emission intensity from 610 to 700 nm in counts per second.
+RED: integrated emission intensity from 610 to 700 nm in counts per second. This column is not used and no assumptions should be made about these values.
 
-TOTAL: integrated emission intensity from 200 to 900 nm in counts per second.
+TOTAL: integrated emission intensity from 200 to 900 nm in counts per second. This column is not used and no assumptions should be made about these values.
 
-ABSORPTION: integrated absorption from 950 to 1030 nm in counts per second.
+ABSORPTION: integrated absorption from 950 to 1030 nm in counts per second. This column is not used and no assumptions should be made about these values.
 
 QE: This column is not used and no assumptions should be made about these values.
