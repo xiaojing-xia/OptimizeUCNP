@@ -27,7 +27,7 @@ radius: core radius in angstroms.
 
 UV: integrated emission intensity from 300 to 450 nm in counts per second.
 
-VIS: integrated emission intensity from 300 to 700 nm in counts per second.
+VIS: integrated emission intensity from 400 to 700 nm in counts per second.
 
 BLUE: integrated emission intensity from 450 to 500 nm in counts per second. This column is not used and no assumptions should be made about these values.
 
